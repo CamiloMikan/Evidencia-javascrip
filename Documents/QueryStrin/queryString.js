@@ -12,3 +12,5 @@ http.createServer(function(req, res) {
 }).listen(8080);
 
 console.log('El servidor esta funcionando en el puerto 8080');
+
+//http://localhost:8080/?=language=cambiar%20la%20variable%20lenguaje%20que%20es%20javascrip
